@@ -8,7 +8,7 @@ import "./App.css";
 
 function App() {
   return (
-    <BrowserRouter basename="/rjs-p16">
+    <BrowserRouter">
       <header>
         <h1>My React Website</h1>
         <Navigation />
