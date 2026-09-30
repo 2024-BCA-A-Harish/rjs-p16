@@ -11,13 +11,6 @@ function App() {
     <BrowserRouter basename="/rjs-p16">
       <header>
         <h1>My React Website</h1>
-
-        <nav>
-          <Link to="/">Home</Link>{" "}
-          <Link to="/aboutus">About Us</Link>{" "}
-          <Link to="/contactus">Contact Us</Link>
-        </nav>
-
         <Navigation />
       </header>
 
